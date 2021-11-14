@@ -1,0 +1,39 @@
+body {
+    background-color: black;
+    font-style: italic;
+    color:pink;
+}
+#terra{
+    width: 70vh;
+    animation-name: moviment;
+    animation-duration: 4s ;
+    animation-iteration-count: infinite;
+}
+    
+    .ola {
+            font-size: 50px;
+            inline-size: auto;
+            animation-name: moviment;
+            animation-duration: 4s;
+            animation-iteration-count: infinite;
+    }
+
+   @keyframes moviment {
+       0% {transform: translateX(0);
+
+       }
+       25% {transform: translateX(400px);
+
+       }
+       50% {transform: translateX(0);
+
+       }
+       75% {transform: translateX(-400px);
+
+       }
+       100% {transform: translateX(0);
+           
+       }
+
+       
+   }
