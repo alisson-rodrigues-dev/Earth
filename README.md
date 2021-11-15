@@ -1,3 +1,3 @@
 # Earth
 ## Testing...
-[earth.mp4](earth.mp4)
+![earth.png](earth.png)
