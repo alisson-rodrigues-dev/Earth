@@ -1,3 +1,3 @@
 # Earth
 ## Testing...
-![earth.png](earth.png)
+![earth1.gif](earth1.gif)
